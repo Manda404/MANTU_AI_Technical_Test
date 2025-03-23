@@ -83,7 +83,7 @@ python main.py
 
 ## 📌 **Contributions & Contact**  
 
-📧 **Contact** : rostand.surel@example.com  
+📧 **Contact** : rostand.surel@yahoo.com  
 💡 **Suggestions & Contributions** bienvenues via **Pull Requests** ou **Issues** sur GitHub !  
 
 ---
